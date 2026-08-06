@@ -222,21 +222,11 @@ Supply-Chain-Analytics
 
 ---
 
-# 📷 Repository Preview
-
-Include:
-
-- Dashboard Cover Image
-- Executive Overview Dashboard
-- Operations & Quality Dashboard
-
----
-
 # 📬 Connect With Me
 
 **Anjali Rawat**
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+- 💼 LinkedIn: www.linkedin.com/in/anjali-rawat-b434a33a3
 - 💻 GitHub: https://github.com/iam-anjalirawat
 
 ---
