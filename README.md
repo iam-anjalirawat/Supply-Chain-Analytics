@@ -167,24 +167,13 @@ Visualizations include:
 ```
 Supply-Chain-Analytics
 │
-├── Dashboard
-│   └── Supply_Chain_Analytics.pbix
-│
-├── SQL
-│   ├── 01_Create_Table.sql
-│   └── 02_Business_Questions.sql
-│
-├── Dataset
-│   └── supply_chain.csv
-│
-├── Images
-│   ├── Executive_Overview.png
-│   ├── Operations_Quality.png
-│   └── Cover.png
-│
-├── Report
-│   └── Supply_Chain_Executive_Summary.pdf
-│
+├── Supply chain Dashboard.pbix
+├── supply_chain_dataset.csv
+├── Supply_chain_SQL.sql
+├── Supply_Chain_Executive_Summary.pdf
+├── Supply chain project cover.png
+├── Executive_Overview.png
+├── Operations_Quality.png
 └── README.md
 ```
 
